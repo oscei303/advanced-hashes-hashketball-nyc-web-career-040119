@@ -169,6 +169,7 @@ player_stats
 end
 
 def big_shoe_rebounds
+<<<<<<< HEAD
   biggest_shoe = nil
   big_shoe_player_rebounds = nil
   game_hash.each do |location, team_data|
@@ -192,6 +193,8 @@ def big_shoe_rebounds
   end
   big_shoe_player_rebounds
 end
+=======
+>>>>>>> 61291a98872bad140f671438ef1c94405653fe1c
   
 
     
